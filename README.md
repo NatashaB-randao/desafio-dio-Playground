@@ -16,7 +16,7 @@
 
 **Objetivos:**
 
-Ao completar este desafio, você estará bem versado nos seguintes conceitos:
+Ao completar este desafio, adquiri conhecimento nos seguintes conceitos:
 
 - Declaração e uso de constantes e variáveis em Swift.
 - Manipulação de strings usando interpolação.
